@@ -1,0 +1,22 @@
+ref                                                         title                                                size  lastUpdated          downloadCount  voteCount  usabilityRating  
+----------------------------------------------------------  --------------------------------------------------  -----  -------------------  -------------  ---------  ---------------  
+b'rabieelkharoua/students-performance-dataset                 \xf0\x9f\x93\x9a Students Performance Dataset \xf0\x9f\x93\x9a                     66KB  2024-06-12 23:09:20          21093        460  1.0              '
+armanmanteghi/supermarket-sales-insights-and-optimization   Supermarket Sales: Insights & Optimization          741KB  2024-07-23 14:19:53           1178         30  0.9411765        
+nelgiriyewithana/most-streamed-spotify-songs-2024           Most Streamed Spotify Songs 2024                    496KB  2024-06-15 18:50:51          15673        331  1.0              
+ihelon/coffee-sales                                         Coffee Sales                                         11KB  2024-07-18 10:06:43           6536        103  1.0              
+adarshde/electric-vehicle-population-dataset                Electric Vehicle Population DataSet                   6MB  2024-07-17 17:17:38           1792         33  1.0              
+utsavdey1410/food-nutrition-dataset                         Food Nutrition Dataset                              694KB  2024-06-29 19:42:01           3657         92  1.0              
+b'fahmidachowdhury/e-commerce-sales-analysis                  \xf0\x9f\x93\x88 E-Commerce Sales Analysis                          35KB  2024-07-04 20:02:23           3192         55  0.9411765        '
+zahrayazdani81/carsdataset                                  CarsDataset                                           4KB  2024-07-01 16:25:36           1445         22  0.7058824        
+abdullahshf/neet-ug-2024-results-all-india                  NEET UG 2024 Results - All India                     12MB  2024-07-21 16:30:14            669         29  1.0              
+humairmunir/lung-cancer-risk-dataset                        Lung Cancer Dataset                                  21KB  2024-07-17 14:25:57            941         34  1.0              
+shubhamoujlayan/top-100-movies-of-all-time                  Top 100 Movies of all time                           15KB  2024-07-12 07:49:04            568         18  1.0              
+sakurapuare/mushroom-classification-enhanced                Mushroom Classification Enhanced                    322KB  2024-07-18 15:54:36            466         21  1.0              
+ivansher/nasa-nearest-earth-objects-1910-2024               NASA | Nearest Earth Objects (1910-2024)             13MB  2024-07-18 13:17:11            884         30  1.0              
+priyamchoksi/100000-diabetes-clinical-dataset               Comprehensive Diabetes Clinical Dataset(100k rows)  896KB  2024-07-20 15:11:02            683         26  1.0              
+priyamchoksi/adult-census-income-dataset                    Adult Census Income Dataset                         450KB  2024-07-07 17:01:37            809         30  1.0              
+dataanalyst001/world-literacy-rate-by-country               World Literacy Rate by Country                        2KB  2024-07-15 08:28:28           1240         25  1.0              
+dataanalyst001/world-population-growth-rate-by-cities-2024  World population growth rate by cities 2024          16KB  2024-07-07 09:04:40            559         21  1.0              
+suchintikasarkar/sentiment-analysis-for-mental-health       Sentiment Analysis for Mental Health                 11MB  2024-07-05 13:58:31           1594         46  1.0              
+adityabhaumik/ipl-2024-matches                              IPL 2024 Matches                                      3KB  2024-07-10 18:18:03            905         24  1.0              
+preethamgouda/campaign-data                                 campaign_data                                         3MB  2024-07-19 07:34:22            368         33  1.0              
