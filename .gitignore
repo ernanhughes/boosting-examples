@@ -3,8 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# exluded for size and 
 data/
 catboost_info/
+kaggle/
 
 # C extensions
 *.so
