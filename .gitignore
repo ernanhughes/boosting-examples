@@ -7,6 +7,8 @@ __pycache__/
 data/
 catboost_info/
 kaggle/
+log/
+
 
 # C extensions
 *.so
